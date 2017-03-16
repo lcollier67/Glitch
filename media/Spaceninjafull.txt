@@ -1,0 +1,2 @@
+Spaceninja = 0 33 96 128
+Spaceninjarun = 0 0 192 32

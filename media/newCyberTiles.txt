@@ -1,0 +1,2 @@
+CyberTiles = 49 0 48 48
+exit = 0 0 48 96
