@@ -1,0 +1,140 @@
+exam1:
+total 20
+-rw-r--r--. 1 ugrad  555 Feb 23 20:16 index.html
+drwxr-xr-x. 5 ugrad 4096 Mar  2 12:46 lib
+drwxr-xr-x. 3 ugrad 4096 Mar  2 12:46 media
+-rw-------. 1 ugrad    0 Mar  2 12:48 rec49173
+drwxr-xr-x. 2 ugrad 4096 Mar  2 12:46 tools
+-rw-r--r--. 1 ugrad 3626 Feb 23 20:16 weltmeister.html
+
+exam1/lib:
+total 12
+drwxr-xr-x. 4 ugrad 4096 Mar  2 12:45 game
+drwxr-xr-x. 3 ugrad 4096 Mar  2 12:46 impact
+drwxr-xr-x. 3 ugrad 4096 Mar  2 12:46 weltmeister
+
+exam1/lib/game:
+total 12
+drwxr-xr-x. 2 ugrad 4096 Mar  2 12:45 entities
+drwxr-xr-x. 2 ugrad 4096 Mar  2 12:45 levels
+-rw-r--r--. 1 ugrad  862 Mar  2 11:43 main.js
+
+exam1/lib/game/entities:
+total 60
+-rw-r--r--. 1 ugrad 1905 Feb 23 20:16 debris.js
+-rw-r--r--. 1 ugrad 1323 Feb 23 20:16 delay.js
+-rw-r--r--. 1 ugrad 1052 Feb 23 20:16 earthquake.js
+-rw-r--r--. 1 ugrad  951 Mar  2 11:56 hurt.js
+-rw-r--r--. 1 ugrad  659 Mar  2 11:36 kill.js
+-rw-r--r--. 1 ugrad  787 Feb 23 20:16 levelchange.js
+-rw-r--r--. 1 ugrad 1823 Feb 23 20:16 mover.js
+-rw-r--r--. 1 ugrad 1429 Feb 23 20:16 particle.js
+-rw-r--r--. 1 ugrad 9186 Mar  2 12:09 player.js
+-rw-r--r--. 1 ugrad  921 Mar  2 12:21 reverse.js
+-rw-r--r--. 1 ugrad 1708 Feb 23 23:48 trigger.js
+-rw-r--r--. 1 ugrad  351 Feb 23 20:16 void.js
+-rw-r--r--. 1 ugrad 1559 Feb 23 23:21 zombie.js
+
+exam1/lib/game/levels:
+total 12
+-rw-r--r--. 1 ugrad 3669 Mar  2 12:17 dorm1.js
+-rw-r--r--. 1 ugrad 6792 Feb 23 23:52 tower.js
+
+exam1/lib/impact:
+total 112
+-rw-r--r--. 1 ugrad  2643 Feb 23 20:16 animation.js
+-rw-r--r--. 1 ugrad  6687 Feb 23 20:16 background-map.js
+-rw-r--r--. 1 ugrad  8240 Feb 23 20:16 collision-map.js
+drwxr-xr-x. 2 ugrad  4096 Mar  2 12:46 debug
+-rw-r--r--. 1 ugrad 10150 Feb 23 20:16 entity.js
+-rw-r--r--. 1 ugrad  1059 Feb 23 20:16 entity-pool.js
+-rw-r--r--. 1 ugrad  3293 Feb 23 20:16 font.js
+-rw-r--r--. 1 ugrad  7706 Feb 23 20:16 game.js
+-rw-r--r--. 1 ugrad  4429 Feb 23 20:16 image.js
+-rw-r--r--. 1 ugrad 14273 Feb 23 20:16 impact.js
+-rw-r--r--. 1 ugrad  6981 Feb 23 20:16 input.js
+-rw-r--r--. 1 ugrad  2102 Feb 23 20:16 loader.js
+-rw-r--r--. 1 ugrad   917 Feb 23 20:16 map.js
+-rw-r--r--. 1 ugrad  7187 Feb 23 20:16 sound.js
+-rw-r--r--. 1 ugrad  3218 Feb 23 20:16 system.js
+-rw-r--r--. 1 ugrad  1231 Feb 23 20:16 timer.js
+
+exam1/lib/impact/debug:
+total 32
+-rw-r--r--. 1 ugrad 2495 Feb 23 20:16 debug.css
+-rw-r--r--. 1 ugrad  225 Feb 23 20:16 debug.js
+-rw-r--r--. 1 ugrad 2882 Feb 23 20:16 entities-panel.js
+-rw-r--r--. 1 ugrad 4428 Feb 23 20:16 graph-panel.js
+-rw-r--r--. 1 ugrad 3634 Feb 23 20:16 maps-panel.js
+-rw-r--r--. 1 ugrad 6772 Feb 23 20:16 menu.js
+
+exam1/lib/weltmeister:
+total 260
+drwxr-xr-x. 2 ugrad  4096 Mar  2 12:46 api
+-rw-r--r--. 1 ugrad   717 Feb 23 20:16 arrow.png
+-rw-r--r--. 1 ugrad 10274 Feb 23 20:16 collisiontiles-64.png
+-rw-r--r--. 1 ugrad  3464 Feb 23 20:16 config.js
+-rw-r--r--. 1 ugrad 16907 Feb 23 20:16 edit-entities.js
+-rw-r--r--. 1 ugrad  9311 Feb 23 20:16 edit-map.js
+-rw-r--r--. 1 ugrad  1517 Feb 23 20:16 entities.js
+-rw-r--r--. 1 ugrad  1722 Feb 23 20:16 evented-input.js
+-rw-r--r--. 1 ugrad 99258 Feb 23 20:16 jquery-1.7.1.min.js
+-rw-r--r--. 1 ugrad 32208 Feb 23 20:16 jquery-ui-1.8.1.custom.min.js
+-rw-r--r--. 1 ugrad  2363 Feb 23 20:16 modal-dialogs.js
+-rw-r--r--. 1 ugrad  2576 Feb 23 20:16 select-file-dropdown.js
+-rw-r--r--. 1 ugrad  4363 Feb 23 20:16 tile-select.js
+-rw-r--r--. 1 ugrad  4977 Feb 23 20:16 undo.js
+-rw-r--r--. 1 ugrad  9247 Feb 23 20:16 weltmeister.css
+-rw-r--r--. 1 ugrad 25571 Feb 23 20:16 weltmeister.js
+
+exam1/lib/weltmeister/api:
+total 16
+-rw-r--r--. 1 ugrad 874 Feb 23 20:16 browse.php
+-rw-r--r--. 1 ugrad 446 Feb 23 20:16 config.php
+-rw-r--r--. 1 ugrad 524 Feb 23 20:16 glob.php
+-rw-r--r--. 1 ugrad 642 Feb 23 20:16 save.php
+
+exam1/media:
+total 1080
+-rw-r--r--. 1 ugrad   3500 Feb 23 20:16 04b03.font 2.png
+-rw-r--r--. 1 ugrad    484 Feb 23 20:16 04b03.font.png
+-rw-r--r--. 1 ugrad   7516 Feb 23 20:16 basictiles.png
+-rw-r--r--. 1 ugrad   1193 Feb 23 20:16 blood.png
+-rw-r--r--. 1 ugrad 928515 Feb 23 20:16 bricks.png
+-rw-r--r--. 1 ugrad    964 Feb 23 20:16 bullet.png
+-rw-r--r--. 1 ugrad   4159 Feb 23 20:16 buttons.png
+-rw-r--r--. 1 ugrad   3168 Feb 23 20:16 debris.png
+-rw-r--r--. 1 ugrad  52328 Feb 23 20:16 dorm-tiles-NEW.psd
+-rw-r--r--. 1 ugrad   3594 Feb 23 20:16 dorm-tiles.png
+-rw-r--r--. 1 ugrad    942 Feb 23 20:16 explosion.png
+-rw-r--r--. 1 ugrad   3117 Feb 23 20:16 game-over.png
+-rw-r--r--. 1 ugrad   3724 Feb 23 20:16 game-title.png
+-rw-r--r--. 1 ugrad   2951 Feb 23 20:16 grenade.png
+-rw-r--r--. 1 ugrad    159 Feb 23 20:16 heart.png
+-rw-r--r--. 1 ugrad   1015 Feb 23 20:16 life-sprite.png
+-rw-r--r--. 1 ugrad   2875 Feb 23 20:16 mover.png
+-rw-r--r--. 1 ugrad   4175 Feb 23 20:16 player.png
+-rw-r--r--. 1 ugrad  15421 Feb 23 20:16 screen-bg.png
+-rw-r--r--. 1 ugrad  14613 Feb 23 20:16 screen-main-character.png
+drwxr-xr-x. 2 ugrad   4096 Mar  2 12:46 sounds
+-rw-r--r--. 1 ugrad   3692 Feb 23 20:16 stat-matte.png
+-rw-r--r--. 1 ugrad   1333 Feb 23 20:16 zombie.png
+
+exam1/media/sounds:
+total 400
+-rw-r--r--. 1 ugrad   3159 Feb 23 20:16 death.mp3
+-rw-r--r--. 1 ugrad   6363 Feb 23 20:16 death.ogg
+-rw-r--r--. 1 ugrad   6391 Feb 23 20:16 jump.mp3
+-rw-r--r--. 1 ugrad  10235 Feb 23 20:16 jump.ogg
+-rw-r--r--. 1 ugrad   2036 Feb 23 20:16 shoot.mp3
+-rw-r--r--. 1 ugrad   5335 Feb 23 20:16 shoot.ogg
+-rw-r--r--. 1 ugrad 215418 Feb 23 20:16 theme.mp3
+-rw-r--r--. 1 ugrad 144846 Feb 23 20:16 theme.ogg
+
+exam1/tools:
+total 20
+-rw-r--r--. 1 ugrad  463 Feb 23 20:16 bake.bat
+-rw-r--r--. 1 ugrad 3638 Feb 23 20:16 bake.php
+-rw-r--r--. 1 ugrad  260 Feb 23 20:16 bake.sh
+-rw-r--r--. 1 ugrad 6438 Feb 23 20:16 jsmin.php
+/home/ugrads/collier/CSCI4070/exam1:/home/work/csx070
